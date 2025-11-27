@@ -1,5 +1,5 @@
 # DenoiseGS: Gaussian Reconstruction Model for Burst Denoising
-[Yongsen Cheng](https://github.com/ysCheng04), [Yuanhao Cai](https://caiyuanhao1998.github.io/), [Yulun Zhang](http://yulunzhang.com/),"DenoiseGS: Gaussian Reconstruction Model for Burst Denoising", arXiv, 2025
+[Yongsen Cheng](https://github.com/yscheng04), [Yuanhao Cai](https://caiyuanhao1998.github.io/), [Yulun Zhang](http://yulunzhang.com/),"DenoiseGS: Gaussian Reconstruction Model for Burst Denoising", arXiv, 2025
 
 
 
