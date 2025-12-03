@@ -1,16 +1,7 @@
 # DenoiseGS: Gaussian Reconstruction Model for Burst Denoising
 [Yongsen Cheng](https://github.com/yscheng04), [Yuanhao Cai](https://caiyuanhao1998.github.io/), [Yulun Zhang](http://yulunzhang.com/),"DenoiseGS: Gaussian Reconstruction Model for Burst Denoising", arXiv, 2025
 
-
-
-<!-- <div>
-<a href="https://github.com/zhengchen1999/QuantDemoire/releases" target='_blank' style="text-decoration: none;"><img src="https://img.shields.io/github/downloads/zhengchen1999/QuantDemoire/total?color=green&style=flat"></a>
-<a href="https://github.com/zhengchen1999/QuantDemoire" target='_blank' style="text-decoration: none;"><img src="https://visitor-badge.laobi.icu/badge?page_id=zhengchen1999/QuantDemoire"></a>
-<a href="https://github.com/zhengchen1999/QuantDemoire/stargazers" target='_blank' style="text-decoration: none;"><img src="https://img.shields.io/github/stars/zhengchen1999/QuantDemoire?style=social"></a>
-</div> -->
-
-
-<!-- [[arXiv](https://arxiv.org/abs/2510.04066)] [[supplementary material](https://github.com/zhengchen1999/QuantDemoire/releases/download/v1/Supplementary_Material.pdf)] [[project](https://zheng-chen.cn/QuantDemoire/)]  -->
+[![Paper](https://img.shields.io/badge/arXiv-2511.22939-b31b1b.svg)](https://arxiv.org/abs/2511.22939)
 
 #### 🔥🔥🔥 News
 
@@ -55,7 +46,7 @@
 </p>
 
 
-<!-- ## <a name="citation"></a>📎 Citation
+## <a name="citation"></a>📎 Citation
 
 If you find the code helpful in your research or work, please cite our work.
 
@@ -63,7 +54,7 @@ If you find the code helpful in your research or work, please cite our work.
 @inproceedings{Cheng2025denoisegs,
     title={DenoiseGS: Gaussian Reconstruction Model for Burst Denoising},
     author={Cheng, Yongsen and Cai, Yuanhao and Zhang, Yulun},
-    journal={arXiv preprint arXiv:2510.04066},
+    journal={arXiv preprint arXiv:2511.22939},
     year={2025}
 }
-``` -->
+```
